@@ -1,2 +1,4 @@
-# Verification-code-identification
-验证码识别
+# 该项目用于图片验证码识别
+1.**使用框架为pytorch**  
+2.**内含训练数据**  
+3.**代码内涵解释**
